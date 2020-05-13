@@ -24,6 +24,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/go/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -35,11 +40,6 @@
   
   <url>
     <loc>/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
