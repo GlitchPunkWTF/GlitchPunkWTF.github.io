@@ -6,11 +6,6 @@
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ru"
                 href="/categories/"
                 />
@@ -23,11 +18,6 @@
   
   <url>
     <loc>/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -46,11 +36,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
